@@ -1,4 +1,4 @@
-# POST NOTE
+# POST Streak
 ## POST /v1/create
 Headers
 | Parameter       | value         |
@@ -10,8 +10,7 @@ Headers
 ```
 {
 "streak": "Vegetable meal",
-"Endate": "10-12-2026", must be a Future date
-"Schedule": "Weekly", can be weekly or Monthly
+"Schedule": "Weekly"
 }
 ```
 
